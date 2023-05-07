@@ -1,0 +1,9 @@
+{
+    "Database":{
+        "host":"database-2.c6nj4am75tkp.ap-south-1.rds.amazonaws.com",
+        "port":5432,
+        "password":"Taken123",
+        "database":"flight_booking",
+        "user":"postgres"
+    }
+}
